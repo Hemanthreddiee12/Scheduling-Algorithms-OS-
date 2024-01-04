@@ -1,0 +1,10 @@
+Process Count : 5
+P. No		Waiting time	T.A. time	W.T.A. time
+4		0.0		3.0		1.0
+3		2.0		10.0		1.25
+1		9.0		15.0		2.5
+5		13.0		17.0		4.25
+2		16.0		18.0		9.0
+
+Avg. T.A. :12.6
+Avg. W.T.A. :3.6
